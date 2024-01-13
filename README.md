@@ -6,7 +6,7 @@ A nice code font
 ## Usage
 
 ```sh
-$ git clone https://github.com/keyding/Operator-Mono.git
+$ git clone https://github.com/mardafirmansyah/Operator-Mono.git
 ```
 
 
